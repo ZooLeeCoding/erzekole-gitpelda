@@ -1,4 +1,4 @@
-git init - új git repository inicializalasa a mappaban
+git init - új git repository inicializalasa a mappaban, ez a legfontosabb lepes, amit tilos elhagyni
 git add (--all) fájlok, mappák hozzáadása a verziókövetéshez
 git status - kilistázza a fájlok állapotát (változott, nincs bekövetve, stb.)
 git commit - létrehoz egy mérföldkövet, letárolja azonosítóval az össze aktuális változást
